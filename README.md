@@ -160,11 +160,11 @@
 ***
 
 * Never declare number, string or boolean objects.
-- Use **""** instead of **new String()**;
+- Use **" "** instead of **new String()**;
 - Use **0** instead of **new Number()**;
 - Use **false** instead of **new Boolean()**;
-- Use **[]** instead of **new Array()**;
-- Use **/()/** instead of **new RegExp()**;
+- Use **[ ]** instead of **new Array()**;
+- Use **/ ( ) /** instead of **new RegExp()**;
 - Use **function** instead of **new Function()**.
 ***
 
