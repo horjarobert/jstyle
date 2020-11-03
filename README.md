@@ -38,7 +38,7 @@
 * Identical to JavaScript functions, a **method** on a JavaScript class is declared with **camelCase** (use a verb as a prefix).
 ***
 
-* A private variable/funcion/method has an underscore as a prefix. Example:
+* A private variable/function/method has an underscore as a prefix. Example:
 ```
   _getName()
   _isGood()
